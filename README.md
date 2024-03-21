@@ -1,7 +1,7 @@
 ### (˶ᵔ ᵕ ᵔ˶) Bonjour there!
-## (づ ᴗ _ᴗ)づ♡ 📢 quick intro:
-
+##  📢 quick intro:
 I am Talantino and I'm a Python developer with a passion for building scalable applications and solving challenging problems. With expertise in Python's powerful frameworks and libraries, I specialize in backend development.
+### (づ ᴗ _ᴗ)づ♡
 - 🌱 I’m currently learning **Django, DRF** and **Flask** for web development, and **Pandas** for data analysis.
 - 🫱🏼‍🫲🏽 I’m looking to collaborate on open source projects or exciting startups.
 - 📫 How to reach me: tak373@usask.ca
