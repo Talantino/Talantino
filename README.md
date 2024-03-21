@@ -1,9 +1,11 @@
-### Hi there 👋
+### (˶ᵔ ᵕ ᵔ˶) Bonjour there!
+## 📢 quick intro:
+
 I am Talantino and I'm a Python developer with a passion for building scalable applications and solving challenging problems. With expertise in Python's powerful frameworks and libraries, I specialize in backend development.
-- I’m currently learning **Django** and **Flask** for web development, and **Pandas** for data analysis.
-- I’m looking to collaborate on open source projects or exciting startups.
+- 🌱 I’m currently learning **Django, DRF** and **Flask** for web development, and **Pandas** for data analysis.
+- 🫱🏼‍🫲🏽 I’m looking to collaborate on open source projects or exciting startups.
 - 📫 How to reach me: tak373@usask.ca
-- ⚡ Fun fact: I am a professional musician who plays violin, piano and guitar
+- ⚡ Fun fact: I am a professional musician who plays violin, piano and guitar ▶•ﮩ٨ـﮩﮩ٨ـ🎵ﮩ٨ـﮩﮩ٨ـ
 
 
 ## Tools and Stack:
