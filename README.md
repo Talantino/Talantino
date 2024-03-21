@@ -1,5 +1,5 @@
 ### (˶ᵔ ᵕ ᵔ˶) Bonjour there!
-## 📢 quick intro:
+## (づ ᴗ _ᴗ)づ♡ 📢 quick intro:
 
 I am Talantino and I'm a Python developer with a passion for building scalable applications and solving challenging problems. With expertise in Python's powerful frameworks and libraries, I specialize in backend development.
 - 🌱 I’m currently learning **Django, DRF** and **Flask** for web development, and **Pandas** for data analysis.
